@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rojasAndresTapia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @rojasAndresTapia
+
+I am a Front End developer in Palma de Mallorca. In November I have started a Front End bootcamp taught by Lemoncode that I have successfully completed in June 2022.
+
+Previously I have worked as a graphic designer and web designer in different projects.
 
 <!---
 rojasAndresTapia/rojasAndresTapia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
