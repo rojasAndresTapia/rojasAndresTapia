@@ -6,13 +6,15 @@ Previously I have worked as a graphic designer and web designer in different pro
 
 My personal website is <a href="rojasandrestapia.github.io/portfolio2022/" target="_blank">Here</a>
 
-How to reach me:  
+How to reach me: 
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!---
 rojasAndresTapia/rojasAndresTapia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-TECH STACK: ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+TECH STACK:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
