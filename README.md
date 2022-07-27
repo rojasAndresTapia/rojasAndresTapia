@@ -12,7 +12,7 @@ rojasAndresTapia/rojasAndresTapia is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-TECH STACK: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+TECH STACK: ![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
