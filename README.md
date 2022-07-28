@@ -4,7 +4,7 @@ I am a Front End developer in Palma de Mallorca. In November I have started a Fr
 
 Previously I have worked as a graphic designer and web designer in different projects.
 
-My personal website is <a href="rojasandrestapia.github.io/portfolio2022/" target="_blank">Here</a>
+My personal website is <a href="https://rojasandrestapia.github.io/Portfolio2022/" target="_blank">Here</a>
 
 How to reach me: 
 <a href="https://www.linkedin.com/in/andres-rojas-tapia/" target="_blank" alt="Linkedin Badge">
