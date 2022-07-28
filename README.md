@@ -7,7 +7,7 @@ Previously I have worked as a graphic designer and web designer in different pro
 My personal website is <a href="rojasandrestapia.github.io/portfolio2022/" target="_blank">Here</a>
 
 How to reach me: 
-<a href="https://www.linkedin.com/in/andres-rojas-tapia/">
+<a href="https://www.linkedin.com/in/andres-rojas-tapia/" target="_blank">
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!---
 rojasAndresTapia/rojasAndresTapia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
