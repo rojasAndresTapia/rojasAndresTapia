@@ -2,11 +2,11 @@
 
 I am a Front End developer in Palma de Mallorca. I have successfully completed <a href="https://lemoncode.net/master-frontend#inicio-banner" alt="Master Front End Lemoncode" target="_blank">Front End Master by Lemoncode</a> in 2022.
 
-In my last 8 years I have worked as a Graphic Designer using Adobe Creative Suite tools and also as a Web Designer, managing hostings, designing mockups with Adobe XD, Figma and customizing sites with Wordpress, HTML and CSS. 
+The last 8 years of my professional career I have worked as a Graphic Designer using Adobe Creative Suite tools and also as a Web Designer, managing hostings, designing mockups with Adobe XD, Figma and customizing sites with Wordpress, HTML and CSS. 
 
 I have also acquired some backend experience working with relational databases in Workbench and Amazon Web Services.
 
-My personal website is <a href="https://rojasandrestapia.github.io/Portfolio2022/" alt="Andrés Rojas personal website" target="_blank">here</a>.
+You can take a look at my personal website <a href="https://rojasandrestapia.github.io/Portfolio2022/" alt="Andrés Rojas personal website" target="_blank">here</a>.
 
 How to reach me: 
 
