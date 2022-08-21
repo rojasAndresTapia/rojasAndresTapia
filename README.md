@@ -1,4 +1,4 @@
-👋 Hi, I’m @rojasAndresTapia
+👋 Hi, I’m Andrés Rojas.
 
 I am a Front End developer in Palma de Mallorca. I have successfully completed <a href="https://lemoncode.net/master-frontend#inicio-banner" alt="Master Front End Lemoncode" target="_blank">Front End Master by Lemoncode</a> in 2022.
 Previously I have worked as a graphic designer and web designer in different projects.
