@@ -6,8 +6,11 @@ Previously I have worked as a graphic designer and web designer in different pro
 My personal website is <a href="https://rojasandrestapia.github.io/Portfolio2022/" alt="Andrés Rojas personal website" target="_blank">here</a>.
 
 How to reach me: 
-<a href="https://www.linkedin.com/in/andres-rojas-tapia/" target="_blank" alt="Linkedin Badge">
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<p align="left">
+<a href="mailto:rojas.tapia.andres@gmail.com"><img alt="Andrés Rojas Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/andres-rojas-tapia/" target="blank">  <img alt="Andrés Rojas Tapia Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=flat&logo=linkedin&logoColor=white" /> </a>
+<a href="https://twitter.com/andresr14508894" target="blank"><img alt="Andrés Rojas Twitter" src="https://img.shields.io/badge/@andresr14508894-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
 
 TECH STACK:
 
