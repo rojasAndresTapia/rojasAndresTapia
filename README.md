@@ -30,4 +30,3 @@ TECH STACK:
 ![Workbench](https://img.shields.io/badge/-Workbench-%231572B5?logo=Workbench&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-%231572B5?logo=AWS&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
