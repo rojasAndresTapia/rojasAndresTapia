@@ -26,5 +26,6 @@ TECH STACK:
 ![Node](https://img.shields.io/badge/-Node.js-%23339933?logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-%23000000?logo=Express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?logo=SQLite&logoColor=white)
+![Workbench](https://img.shields.io/badge/-Workbench-%23000000?logo=Workbench&logoColor=blue)
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
