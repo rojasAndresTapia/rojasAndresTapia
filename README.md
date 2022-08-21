@@ -1,18 +1,13 @@
 👋 Hi, I’m @rojasAndresTapia
 
-I am a Front End developer in Palma de Mallorca. In November I have started a Front End bootcamp taught by Lemoncode that I have successfully completed in June 2022.
-
+I am a Front End developer in Palma de Mallorca. I have successfully completed <a href="https://lemoncode.net/master-frontend#inicio-banner alt="Master Front End Lemoncode" target="_blank">"Front End Master</a> taught by Lemoncode in 2022.
 Previously I have worked as a graphic designer and web designer in different projects.
 
-My personal website is <a href="https://rojasandrestapia.github.io/Portfolio2022/" target="_blank">Here</a>
+My personal website is <a href="https://rojasandrestapia.github.io/Portfolio2022/" alt="Andrés Rojas personal website" target="_blank">here</a>.
 
 How to reach me: 
 <a href="https://www.linkedin.com/in/andres-rojas-tapia/" target="_blank" alt="Linkedin Badge">
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<!---
-rojasAndresTapia/rojasAndresTapia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 TECH STACK:
 
